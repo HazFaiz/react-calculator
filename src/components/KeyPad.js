@@ -1,6 +1,6 @@
 import React from "react";
 import useKeys from "../utils/useKeys";
-import Key from "./Key";
+import Key from "../components/Key"
 
 const KeyPad = () => {
     const keys = useKeys();
