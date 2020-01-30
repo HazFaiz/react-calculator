@@ -5,7 +5,7 @@ import CalculatorDisplay from "./components/CalculatorDisplay";
 function App() {
   return (
     <>
-      <div style={{ width: "100%" }}>
+      <div style={{ width: "100%" }}>I love Puppies
         <div style={{
           width: "350px",
           position: 'absolute',
